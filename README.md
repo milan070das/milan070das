@@ -1,13 +1,3 @@
-<!--
-README.md for Milan Das
-Professional, creative, and animated profile introduction.
-Animations are included via GIFs and SVGs. Replace GIF/SVG URLs with your own or use recommended community assets.
--->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200" alt="Welcome Animation"/>
-</p>
-
 # 👋 Hi, I'm Milan Das
 
 Aspiring developer | Innovator | Lifelong learner  
