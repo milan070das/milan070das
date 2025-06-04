@@ -69,7 +69,7 @@ _B.Tech in Computer Science & Engineering, UEM Kolkata_
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milan070das&theme=radical" alt="GitHub Streak" width="400"/>
   <br>
   <!-- Contribution Snake Animation (auto-updating via GitHub Actions) -->
-  <img src="https://github.com/milan070das/milan070das/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  
 </p>
 
 ---
