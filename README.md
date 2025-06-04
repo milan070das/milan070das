@@ -1,73 +1,94 @@
+<!--
+README.md for Milan Das
+Professional, creative, and animated profile introduction.
+Animations are included via GIFs and SVGs. Replace GIF/SVG URLs with your own or use recommended community assets.
+-->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200" alt="Welcome Animation"/>
+</p>
+
 # 👋 Hi, I'm Milan Das
 
-Welcome to my GitHub!  
-I'm an aspiring developer passionate about building impactful solutions at the intersection of software engineering, machine learning, and real-world problem solving.
+Aspiring developer | Innovator | Lifelong learner  
+_B.Tech in Computer Science & Engineering, UEM Kolkata_
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering**  
-  University of Engineering and Management, Kolkata  
-  *CGPA: 8.97/10 (till 5th Semester)*
-
-- 💡 **Driven by curiosity** and a strong desire to learn, grow, and contribute to open-source and collaborative projects.
-
-- 🌱 Currently exploring advanced topics in **AI, Blockchain, and IoT**.
+- 🔭 I’m passionate about **AI, Blockchain, and IoT**.
+- 💡 Always seeking to learn, grow, and build impactful solutions.
+- 🌱 Currently exploring advanced topics in **Machine Learning** and **Decentralized Systems**.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- **Languages:** Java, C, C++, Python
-- **Machine Learning:** TensorFlow, PyTorch, Keras, OpenCV
-- **Database:** Oracle 10G
-- **Other:** Arduino, Raspberry Pi, Web3.js, Solidity
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-CC0000?style=for-the-badge&logo=oracle&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Projects
 
 - **Blockchain-Enabled Federated Learning for Secure Healthcare Diagnostics**  
-  *Ongoing* | `Python`, `TensorFlow`, `Solidity`, `Web3.js`  
-  > Decentralized healthcare diagnostics leveraging federated learning and blockchain for privacy-preserving AI.
+  *Decentralized, privacy-preserving AI for healthcare using blockchain and federated learning.*
 
 - **Smart Traffic Management System**  
-  `Python`, `Raspberry Pi`  
-  > IoT-based congestion detection and real-time traffic optimization.
+  *IoT-based congestion detection and real-time traffic optimization.*
 
 - **Disaster Management Rover**  
-  `Python`, `Single-board Computer`  
-  > Autonomous rover for risk mitigation and disaster response.
+  *Autonomous rover for disaster response and risk mitigation.*
 
 - **Non-lethal Weapon for Women's Safety**  
-  *Ongoing* | `Python`, `Arduino`  
-  > Innovative, easy-to-use device to enhance women's safety in emergencies.
+  *Innovative safety device for women, powered by embedded systems.*
 
 - **Foresight Stocks**  
-  `Python`  
-  > Stock price prediction using historical data and machine learning.
+  *Stock price prediction using machine learning.*
 
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements & Certifications
 
-- **GATE 2025**  
-  All India Rank: 5335
-- **Certifications:**  
-  - Programming in Java (Infosys)
-  - C (NPTEL)
-  - Python (NPTEL)
-  - Google Data Analytics (Coursera)
-  - AWS Fundamentals (Coursera)
+- 🏆 **GATE 2025 AIR 5335**
+- 🥇 Programming in Java (Infosys)
+- 🥇 C (NPTEL)
+- 🥇 Python (NPTEL)
+- 🥇 Google Data Analytics (Coursera)
+- 🥇 AWS Fundamentals (Coursera)
 
 ---
 
-## 📫 Let's Connect
+## 📈 GitHub Stats & Contribution Animation
 
-- [LinkedIn](https://www.linkedin.com/in/milan-das-41a45b251)
-- [GitHub](https://github.com/milan070das)
-- 📧 milandas4418@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=milan070das&show_icons=true&theme=radical" alt="Milan's GitHub Stats" width="400"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milan070das&theme=radical" alt="GitHub Streak" width="400"/>
+  <br>
+  <!-- Contribution Snake Animation (auto-updating via GitHub Actions) -->
+  <img src="https://github.com/milan070das/milan070das/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milan-das-41a45b251)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/milan070das)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:milandas4418@gmail.com)
 
 ---
 
@@ -76,5 +97,6 @@ I'm an aspiring developer passionate about building impactful solutions at the i
 
 ---
 
-🌟 *Open to collaborations, internships, and exciting tech conversations!*
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Let's+build+something+amazing+together!;Open+to+collaborations+and+internships!" alt="Typing SVG Animation" />
+</p>
